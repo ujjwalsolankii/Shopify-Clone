@@ -13,15 +13,15 @@
 
 ## Screenshots
 
-- 1 ![](./screenshots/Screenshot 2023-02-10 172243.png)
+- 1 ![](https://github.com/ujjwalsolankii/Shopify-Clone/blob/main/screenshots/Screenshot%202023-02-10%20172243.png?raw=true)
 
-- 2 ![](./screenshots/Screenshot 2023-02-10 172411.png)
+- 2 ![](https://github.com/ujjwalsolankii/Shopify-Clone/blob/main/screenshots/Screenshot%202023-02-10%20172411.png?raw=true)
 
-- 3 ![](./screenshots/Screenshot 2023-02-10 172445.png)
+- 3 ![](https://github.com/ujjwalsolankii/Shopify-Clone/blob/main/screenshots/Screenshot%202023-02-10%20172445.png?raw=true)
 
-- 4 ![](./screenshots/Screenshot 2023-02-10 172514.png)
+- 4 ![](https://github.com/ujjwalsolankii/Shopify-Clone/blob/main/screenshots/Screenshot%202023-02-10%20172514.png?raw=true)
 
-- 5 ![](./screenshots/Screenshot 2023-02-10 172640.png)
+- 5 ![](https://github.com/ujjwalsolankii/Shopify-Clone/blob/main/screenshots/Screenshot%202023-02-10%20172551.png?raw=true)
 
-- 6 ![](./screenshots/Screenshot 2023-02-10 172551.png)
+- 6 ![](https://github.com/ujjwalsolankii/Shopify-Clone/blob/main/screenshots/Screenshot%202023-02-10%20172640.png?raw=true)
 
