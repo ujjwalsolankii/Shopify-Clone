@@ -1,6 +1,6 @@
 # Shopify-Clone
 
-## Project 02  [Live link]()
+## Project 02  [Live link](https://shopify-clone-webapp.netlify.app/)
 - Skills Gained in this project
     - Learned about Tailwind css and various properties of tailwind css.
     - Learned to make cards and mediaquery for responviveness.
